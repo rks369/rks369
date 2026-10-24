@@ -10,7 +10,7 @@ I build cross-platform mobile apps that real people use for money, learning, and
 
 ### 🛠️ What I work with
 
-| | |
+| Area | Technologies |
 |---|---|
 | **Mobile** | Flutter, Dart, Kotlin, Kotlin Multiplatform, Compose Multiplatform |
 | **Backend** | Ktor, Node.js, Go, PHP |
