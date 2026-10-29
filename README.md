@@ -20,12 +20,17 @@ I build cross-platform mobile apps that real people use for money, learning, and
 
 ---
 
-### 💼 What I've built at work
+### 📱 Apps I've shipped to production
 
-- **Value Research Advisor** (Value Research, 2024 – present): KYC & onboarding, Investment Planner, cart, and Fund Screener. Built reusable form validation with InheritedWidget and dynamic multi-theme support.
-- **Value Research app** (via CodeQuotient, 2023 – 2024): Redesigned an outdated UI and built custom `CustomPainter` widgets. Fixed re-rendering problems, which made the app noticeably faster.
-- **MH Board Textbook & Solution** (freelance): An offline-first study app for Class 1–12 students with cached PDFs and English / Hindi / Marathi support.
-- **Staffing agency app** (The Lead Origin): A role-based access control app with Admin, Super Admin, Organisation, and End-User modules.
+**160K+ downloads on Google Play** across the apps I've worked on, rated up to 4.8★ on both stores.
+
+| App | My work | Stores |
+|---|---|---|
+| **Value Research Advisor**<br><sub>Value Research · 2024 – present</sub> | SEBI-registered mutual fund advisory app. Built KYC & onboarding, Investment Planner, cart, and Fund Screener; reusable form validation with InheritedWidget and dynamic multi-theme support. | [![Google Play](https://img.shields.io/badge/Google_Play-10K%2B_·_4.8★-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.valueresearch.advisor)<br>[![App Store](https://img.shields.io/badge/App_Store-4.7★-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/us/app/value-research-advisor/id6751192384) |
+| **Value Research Online**<br><sub>via CodeQuotient · 2023 – 2024</sub> | Portfolio tracking & investing app. Redesigned the outdated UI, built custom `CustomPainter` widgets, and fixed re-rendering problems for a noticeably faster app. | [![Google Play](https://img.shields.io/badge/Google_Play-100K%2B_·_4.7★-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.valueresearch.vro)<br>[![App Store](https://img.shields.io/badge/App_Store-4.8★-0D96F6?logo=appstore&logoColor=white)](https://apps.apple.com/us/app/value-research-online/id1634777012) |
+| **MH Board Textbook & Solution**<br><sub>Freelance for SK Classes · 2022</sub> | Offline-first study app for Class 1–12 students with cached PDFs and English / Hindi / Marathi support. | [![Google Play](https://img.shields.io/badge/Google_Play-50K%2B-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.skclasses.msbbas) |
+
+Also built a **staffing agency app** at The Lead Origin: role-based access control with Admin, Super Admin, Organisation, and End-User modules.
 
 ---
 
