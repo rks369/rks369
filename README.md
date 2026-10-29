@@ -35,8 +35,8 @@ I build cross-platform mobile apps that real people use for money, learning, and
 |---|---|---|
 | [**env-sync**](https://github.com/rks369/env-sync) | Manage and sync `.env` files across projects and teams, with local or remote storage | KMP · Compose Multiplatform · Ktor · SQLite / MySQL / MongoDB |
 | [**KMP-Showcase**](https://github.com/rks369/KMP-Showcase) | Shared business logic across Android, iOS, and the backend, plus SEO-friendly server-rendered pages via Kotlin DSL | KMP · Ktor · Kotlin DSL |
+| [**E-Vidyalaya**](https://github.com/rks369/e-vidyalaya) · [Live](https://e-vidyalaya.onrender.com/) | Campus management platform for schools & colleges: Admin and User apps from one Flutter codebase on Android & web, backed by a Node.js API, with classes, notes & chat. Built as my B.Tech project | Flutter · Flutter Web · Flavors · Bloc · Node.js |
 | [**Swastha**](https://github.com/rks369/swastha_health_app) · [APK](https://github.com/rks369/swastha_health_app/releases/latest) | Physical & mental wellness app: steps, water, sleep, calories, BMI, guided breathing & meditation | Flutter · Bloc · Firebase · SQLite |
-| [**eVidyalaya**](https://github.com/rks369/evidyalaya) + [**Admin**](https://github.com/rks369/evidyalaya_admin) | Education platform with a separate admin app | Flutter |
 
 ---
 
